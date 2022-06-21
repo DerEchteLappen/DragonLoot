@@ -1,0 +1,40 @@
+{
+  "block.dragonloot.dragon_anvil": "Drachen-Amboss",
+  "item.dragonloot.dragon_scale": "Drachenschuppe",
+  
+  "item.dragonloot.dragon_helmet": "Drachenschuppenhelm",
+  "item.dragonloot.dragon_chestplate": "Drachenschuppenharnisch",
+  "item.dragonloot.dragon_leggings": "Drachenschuppenbeinschutz",
+  "item.dragonloot.dragon_boots": "Drachenschuppenstiefel",
+  "item.dragonloot.upgraded_dragon_chestplate": "Geflügeltedrachenschuppenharnisch",
+
+  "item.dragonloot.dragon_pickaxe": "Drachenspitzhacke",
+  "item.dragonloot.dragon_axe": "Drachenaxt",
+  "item.dragonloot.dragon_shovel": "Drachenschaufel",
+  "item.dragonloot.dragon_hoe": "Drachenhacke",
+  "item.dragonloot.dragon_sword": "Drachenschwert",
+  "item.dragonloot.dragon_bow": "Drachenbogen",
+  "item.dragonloot.dragon_crossbow": "Drachenarmbrust",
+
+  "item.dragonloot.dragon_horse_armor": "Drachenschuppender Rossharnisch",
+  "item.dragonloot.dragon_trident": "Drachendreizack",
+  "entity.dragonloot.dragon_trident": "Drachendreizack",
+
+  "itemGroup.dragonloot.dragonloot": "Dragon Loot",
+
+  "text.autoconfig.dragonloot.title": "DragonLoot Config",
+  "text.autoconfig.dragonloot.option.scale_minimum_drop_amount": "Scale minimum drop amount",
+  "text.autoconfig.dragonloot.option.additional_scales_per_player": "Additional scales per player",
+  "text.autoconfig.dragonloot.option.additional_scale_drop_chance": "Additional scale drop chance",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_helmet": "Dragon Armor Helmet Protection",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_chest": "Dragon Armor Chestplate Protection",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_leggings": "Dragon Armor Leggings Protection",
+  "text.autoconfig.dragonloot.option.dragon_armor_protection_boots": "Dragon Armor Boots Protection",
+  "text.autoconfig.dragonloot.option.dragon_armor_durability_multiplier": "Dragon Armor Durability Multiplier",
+  "text.autoconfig.dragonloot.option.dragon_item_durability_multiplier": "Dragon Item Durability Multiplier",
+  "text.autoconfig.dragonloot.option.dragon_item_base_damage": "Dragon Item Base Damage",
+  "text.autoconfig.dragonloot.option.dragon_anvil_no_cap": "Dragon Anvil No Cap",
+
+  "dragonloot.advancements.dragon_armor.title": "Aus den Schuppen der Bestie",
+  "dragonloot.advancements.dragon_armor.description": "Schmieden Sie sich eine vollständige Drachenschuppenrüstung"
+}
